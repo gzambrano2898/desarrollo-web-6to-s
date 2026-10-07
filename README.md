@@ -1,1 +1,19 @@
-Ôªø# Desarrollo Web`n`n## Autor`n- *Nombre:* Geovanny Zambrano`n- *Curso:* Desarrollo Web - 6to Semestre`n`n## Descripci√≥n`nEste repositorio contiene todos los trabajos, proyectos y pr√°cticas de la asignatura de Desarrollo Web.`n`n## √çndice de Trabajos / Proyectos`n1. Tarea 1 - Configuraci√≥n del entorno`n2. Tarea 2 - HTML y CSS`n3. Tarea 3 - JavaScript`n`n## Tecnolog√≠as utilizadas`n- HTML5`n- CSS3`n- JavaScript`n- Git & GitHub
+# Desarrollo Web 
+ 
+## Autor 
+- *Nombre:* Geovanny Zambrano 
+- *Curso:* Desarrollo Web - 6to Semestre 
+ 
+## Descripci¢n 
+Este repositorio contiene todos los trabajos, proyectos y pr†cticas de la asignatura de Desarrollo Web. 
+ 
+## Indice de Trabajos / Proyectos 
+1. Tarea 1 - Configuraci¢n del entorno 
+2. Tarea 2 - HTML y CSS 
+3. Tarea 3 - JavaScript 
+ 
+## Tecnolog°as utilizadas 
+- HTML5 
+- CSS3 
+- JavaScript 
+- Git & GitHub
