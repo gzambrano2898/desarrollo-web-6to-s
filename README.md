@@ -7,8 +7,8 @@ Repositorio de trabajos, proyectos y prácticas de la asignatura **Desarrollo We
 | N.º | Nombre | Usuario de GitHub |
 |-----|--------|-------------------|
 | 1 | Geovanny Zambrano | [@gzambrano2898](https://github.com/gzambrano2898) |
-| 2 | *(nombre del integrante)* | *(@usuario)* |
-| 3 | *(nombre del integrante)* | *(@usuario)* |
+| 2 | Jhony Aguilar | [jaguilar4936](https://github.com/jaguilar4936) |
+| 3 |  Gustavo Bermeo | [gbermeo4113](https://github.com/gbermeo4113) |
 
 - **Curso:** Desarrollo Web – 6to Semestre
 - **Unidad:** 1
